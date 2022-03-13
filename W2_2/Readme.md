@@ -1,0 +1,9 @@
+
+Score合约地址: 0x45bD31a5A182534F3c808fE40c2f9cA11113c4FA
+Teacher合约地址: 0xe55aD84F64e9d972B89191b0E6aF4A7Dc21cA06d
+
+直接调用Score合约的SetScore方法: https://testnet.bscscan.com/tx/0x955539730f43964961a9639e3662f77510dfa34895266b10e948513f9caf2ab0
+
+通过Teacher合约以接口的方式调用Score合约的SetScore方法: https://testnet.bscscan.com/tx/0xf9e314995719bd5cf4cdd88cbf9f5c1a7c54d2980b2eed16cb08354861263d40
+
+通过Teacher合约以低级调用的方式调用Score合约的SetScore方法: https://testnet.bscscan.com/tx/0x0055f53c4fa3a877a06a05b949bf03aca33c9a2a0527e76d0a7718d03ff77dcc

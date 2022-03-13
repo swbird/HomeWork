@@ -1,0 +1,6 @@
+网络: BSC测试网
+
+合约创建hash->https://testnet.bscscan.com/tx/0x42c5b14996ed0e30d70c0facd3f71b3abba39dcb54df223d6e992165c9e49830
+转账hash->https://testnet.bscscan.com/tx/0x3c1529ce29a88c74d96437b92281cff00e71353dcbbcca1a2ab676bba743c131
+用户提现hash->https://testnet.bscscan.com/tx/0x962ed1921f0e438e8c146b739e227415ef001c56351cf6e993b039e2ba9e8e12
+Owner紧急提现hash(提取合约内所有eth)->https://testnet.bscscan.com/tx/0x6c31e6f2fbe6c7a5b0b9dc78acdadbab6678e5e01ed8cdcd35a34dba00a5cabe
