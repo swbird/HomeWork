@@ -32,7 +32,7 @@ module.exports = {
     bscTest: {
       url: "https://data-seed-prebsc-1-s1.binance.org:8545/", // BSC Testnet
       chainId: 97,
-      accounts: ["0x7c45631950e456dc219fa14311b3dc624d7a2016e760229a2f9be4e2a557d9cb"]
+      accounts: [""]
     }
   }
 };
