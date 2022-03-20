@@ -14,8 +14,8 @@ const tokenContractAddress = ContractAddress;
 
 const httpEndpoint = config.networks.bscTest.url;
 
-
-
+const ContractAddress = require("../deployments/bscTest/birdNFT.json").address
+const config = require("../hardhat.config")
 const rpcProvider = new ethers.providers.JsonRpcProvider(httpEndpoint);
 // console.log(hre.accounts);
 const mintWallet = new ethers.Wallet(config.networks.bscTest.accounts[0], rpcProvider)

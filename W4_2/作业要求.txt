@@ -1,0 +1,4 @@
+W4_2作业
+* 在上一次作业的基础上：
+   * 完成代币兑换后，直接质押 MasterChef
+   * withdraw():从 MasterChef 提取 Token 方法
