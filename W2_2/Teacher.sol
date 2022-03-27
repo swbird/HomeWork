@@ -16,7 +16,7 @@ contract Teacher{
 
     function setStudentScoreByLowlevelcall(address student, uint score) external {
         bytes memory payload = abi.encodeWithSignature("setScore(address,uint256)", student,score);
-        (bool success, bytes memory returnData) = IScoreAddress.call(payload);
-        require(success, string(returnData));
+            (bool success, bytes memory returnData) = IScoreAddress.call(payload);
+            require(success, string(returnData));
     }
 }   

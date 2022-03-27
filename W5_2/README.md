@@ -21,5 +21,5 @@ npx hardhat help
 `
 
 效果图:
-    ![Image text](./compileResult.png)
+    ![Image text](./compileResult.jpg)
 
