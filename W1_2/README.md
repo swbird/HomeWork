@@ -21,4 +21,4 @@ npx hardhat help
 
 效果图:
 
-    ![Image text](./img.jpg)
+    ![avatar](./img.jpg)
