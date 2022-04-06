@@ -21,4 +21,4 @@ npx hardhat help
 
 效果图:
 
-    ![Image text](./W1_2效果图.jpg)
+    ![Image text](./img.jpg)
