@@ -1,0 +1,4 @@
+W1-2作业：
+* 使用Hardhat部署修改后的Counter
+* 使用Hardhat测试Counter
+* 写一个脚本调用count()
